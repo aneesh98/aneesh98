@@ -6,7 +6,7 @@
 - Love learning new frameworks and languages.
 - 📫 How to reach me:
     1. [Linkedin](https://www.linkedin.com/in/aneesh-s-kulkarni/)
-    2. [Email](mailto:aneeshkulkarni.ak@gmail.com)
+    2. Email: aneeshkulkarni.ak@gmail.com
 
 <!--
 **aneesh98/aneesh98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
